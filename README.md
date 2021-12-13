@@ -8,4 +8,14 @@ Development of a deep learning AI detecting abnormal behaviors to support a safe
  CNN은 이미지 처리에 굉장히 좋은 성능을 보여줍니다 
 DNN과 CNN을 비교하였을 때 DNN은 정확도가 70%를 간신히 넘었으며, CNN은 95%이상의 높은 정확도를 보여줍니다 
 
-![ex_screenshot](/picture/1.png)
+![layer](/picture/1.png)
+
+데이터 레이어는 다음과 같습니다
+
+![layer2](/picture/2.png)
+
+밀집층, 은닉층과 학습을 몇번 거치는지 알 수 있습니다
+
+![layer3](/picture/3.png)
+
+모델을 적용하여 화면에 담았을 때 다음과 같이 사람이 어떤 행동을 하고 있는지 알 수 있습니다
